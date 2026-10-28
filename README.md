@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Mohammad Bin Abdulaziz Nada. Full-Stack Developer at Nada Tech. Flutter Developer for mobile and desktop, Next.js and Laravel." width="100%">
+  <img src="Mohammad bannar.jpeg" alt="Mohammad Bin Abdulaziz Nada. Full-Stack Developer at Nada Tech. Flutter Developer for mobile and desktop, Next.js and Laravel." width="100%">
 </p>
 
 <p align="center">
